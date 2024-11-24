@@ -1,0 +1,33 @@
+# Node.js / Next.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.next/
+out/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Environment Variables
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
